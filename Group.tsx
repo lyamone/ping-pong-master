@@ -1,7 +1,6 @@
 import * as React from 'react';
 import { useState, useEffect } from 'react';
 import { render } from 'react-dom';
-// import { getFirestore, collection, getDocs } from 'firebase/firestore';
 
 import * as standings from './groups.json';
 
@@ -15,8 +14,6 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import { TableBody, Typography } from '@mui/material';
-// import * as firebaseApp from 'firebase/app';
-// import { getFirestore, collection, getDocs } from 'firebase/firestore/lite';
 
 interface GroupProps {
   groupNumber: number;
@@ -34,18 +31,6 @@ const Group = (props: GroupProps) => {
   const groupRows = sortedGroup.map((playerStats: PlayerStats) => {
     return <GroupRow player={playerStats} key={playerStats.name} />;
   });
-  // useEffect(() => {
-  //   // console.log(firebaseApp);
-  //   // const db = getFirestore(firebaseApp);
-  //   // async function getPlayers(db) {
-  //   //   const playerCol = db.collection(db, 'players');
-  //   //   const players = await getDocs(players);
-  //   //   console.log(players);
-  //   // }
-  //   // getPlayers(db);
-  //   // console.log(players);
-  //   // const shoppingsDB = firebase.database().ref('Shopping List');
-  // }, []);
 
   return (
     <div className="flex flex-column p-1">
