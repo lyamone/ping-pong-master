@@ -1,0 +1,560 @@
+{
+  "groups": [
+    {
+      "id": 1,
+      "players": [
+        {
+          "name": "Nelson",
+          "games": 3,
+          "won": 3,
+          "pf": 6,
+          "pa": 0,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fnelson.png?alt=media&token=3721e30a-fbbd-42f0-9d95-1a44dfb1a8f7"
+        },
+        {
+          "name": "Pol",
+          "games": 3,
+          "won": 2,
+          "pf": 4,
+          "pa": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fpol.png?alt=media&token=2958f5c7-8256-4c39-bc23-211bad6920ff"
+        },
+        {
+          "name": "Dany",
+          "games": 3,
+          "won": 0,
+          "pf": 0,
+          "pa": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdany.png?alt=media&token=f14b825a-d83c-40f1-937e-6715d8c5b0c7"
+        },
+        {
+          "name": "Ines",
+          "games": 3,
+          "won": 1,
+          "pf": 2,
+          "pa": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fines.png?alt=media&token=020fe3a4-8a1e-4acf-9afd-2d464f658f0a"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "players": [
+        {
+          "name": "Boris",
+          "games": 3,
+          "won": 3,
+          "pf": 6,
+          "pa": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fboris.png?alt=media&token=ccdf4d3a-69d7-4eee-a187-f57e7596ea87"
+        },
+        {
+          "name": "Pascal",
+          "games": 3,
+          "won": 1,
+          "pf": 2,
+          "pa": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fpascaal.png?alt=media&token=95e4bf9c-c4a1-4084-beca-fa8a3183f862"
+        },
+        {
+          "name": "Ruben",
+          "games": 3,
+          "won": 2,
+          "pf": 5,
+          "pa": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fruben.png?alt=media&token=49b8a201-b363-4907-89be-1b899d72ea06"
+        },
+        {
+          "name": "Daniel",
+          "games": 3,
+          "won": 0,
+          "pf": 0,
+          "pa": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdaniel.png?alt=media&token=94bf1bf9-1211-4517-ac06-635002e709ca"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "players": [
+        {
+          "name": "Cristian",
+          "games": 3,
+          "won": 3,
+          "pf": 6,
+          "pa": 0,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fcristian.png?alt=media&token=e4c1d0b1-1316-442f-b0d9-b5c81691f8d1"
+        },
+        {
+          "name": "Jose Argentum",
+          "games": 3,
+          "won": 2,
+          "pf": 4,
+          "pa": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjose.png?alt=media&token=f6f1de74-2390-4971-8e70-2abd6d47e08e"
+        },
+        {
+          "name": "Jose M",
+          "games": 3,
+          "won": 1,
+          "pf": 2,
+          "pa": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjose-m.png?alt=media&token=935a8018-50a4-4b82-9237-914d4f9aecb4"
+        },
+        {
+          "name": "Santiago",
+          "games": 3,
+          "won": 0,
+          "pf": 0,
+          "pa": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fsantiago.png?alt=media&token=b7c4bed8-310c-4512-b951-84ce94087791"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "players": [
+        {
+          "name": "Tomeu",
+          "games": 3,
+          "won": 3,
+          "pf": 6,
+          "pa": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Ftomeu.png?alt=media&token=16eb16cb-55ee-4324-af54-6cd6127b422b"
+        },
+        {
+          "name": "Jesus",
+          "games": 3,
+          "won": 2,
+          "pf": 5,
+          "pa": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjesus.png?alt=media&token=33957bdd-4fb6-456e-885b-27a4a2bccc41"
+        },
+        {
+          "name": "Line",
+          "games": 3,
+          "won": 0,
+          "pf": 0,
+          "pa": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fline.png?alt=media&token=901d4b1b-d8b5-48ef-801a-ac0d6a80b15c"
+        },
+        {
+          "name": "Victor",
+          "games": 3,
+          "won": 1,
+          "pf": 3,
+          "pa": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fvictor-gil.png?alt=media&token=1c42fad5-89aa-46f0-bfb1-b1c1e10bc5e7"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "players": [
+        {
+          "name": "Lucas",
+          "games": 3,
+          "won": 3,
+          "pf": 6,
+          "pa": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Flucas.png?alt=media&token=5cd75e7e-91ea-4b39-b466-6b3340ae6d75"
+        },
+        {
+          "name": "Lucio",
+          "games": 3,
+          "won": 2,
+          "pf": 5,
+          "pa": 2,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Flucio.png?alt=media&token=b3b6965a-0f98-4292-b642-0e05f7547a28"
+        },
+        {
+          "name": "Nacho",
+          "games": 3,
+          "won": 0,
+          "pf": 0,
+          "pa": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fnacho.png?alt=media&token=016c06be-66db-4371-afa8-b1835e8cf17b"
+        },
+        {
+          "name": "Maria",
+          "games": 3,
+          "won": 1,
+          "pf": 2,
+          "pa": 6,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fmaria.png?alt=media&token=56c2dedd-f993-4c8e-bfe9-16d4ecdf5664"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "players": [
+        {
+          "name": "Dennis",
+          "games": 3,
+          "won": 2,
+          "pf": 4,
+          "pa": 3,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdennis.png?alt=media&token=55d12e23-747f-46bd-bad6-acf20e4d3511"
+        },
+        {
+          "name": "Eleni",
+          "games": 3,
+          "won": 1,
+          "pf": 4,
+          "pa": 5,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Feleni.png?alt=media&token=71972c48-cc35-45b9-ac7d-7739a64bf81b"
+        },
+        {
+          "name": "Victorius",
+          "games": 2,
+          "won": 2,
+          "pf": 4,
+          "pa": 1,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fvictorius.png?alt=media&token=9e8f476d-92dd-4e2d-b90e-fe0ef9ffe4db"
+        },
+        {
+          "name": "Estela",
+          "games": 2,
+          "won": 0,
+          "pf": 1,
+          "pa": 4,
+          "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Festela.png?alt=media&token=04b045e7-f399-4ce9-a61f-3200ba5c8cd8"
+        }
+      ]
+    }
+  ],
+  "games": [
+    {
+      "player1": "Lucas",
+      "player1Pf": 2,
+      "player2": "Lucio",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Lucas",
+      "player1Pf": 2,
+      "player2": "Nacho",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Lucas",
+      "player1Pf": 2,
+      "player2": "Maria",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Lucio",
+      "player1Pf": 2,
+      "player2": "Maria",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Maria",
+      "player1Pf": 2,
+      "player2": "Nacho",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Victor",
+      "player1Pf": 2,
+      "player2": "Line",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Jesus",
+      "player1Pf": 2,
+      "player2": "Victor",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Tomeu",
+      "player1Pf": 2,
+      "player2": "Line",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Nelson",
+      "player1Pf": 2,
+      "player2": "Pol",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Nelson",
+      "player1Pf": 2,
+      "player2": "Dany",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Ines",
+      "player1Pf": 2,
+      "player2": "Dany",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Nelson",
+      "player1Pf": 2,
+      "player2": "Ines",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Pol",
+      "player1Pf": 2,
+      "player2": "Ines",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Pol",
+      "player1Pf": 2,
+      "player2": "Dany",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Boris",
+      "player1Pf": 2,
+      "player2": "Ruben",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Pascal",
+      "player1Pf": 2,
+      "player2": "Daniel",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Ruben",
+      "player1Pf": 2,
+      "player2": "Daniel",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Pascal",
+      "player1Pf": 0,
+      "player2": "Ruben",
+      "player2Pf": 2
+    },
+    {
+      "player1": "Boris",
+      "player1Pf": 2,
+      "player2": "Pascal",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Boris",
+      "player1Pf": 2,
+      "player2": "Daniel",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Cristian",
+      "player1Pf": 2,
+      "player2": "Jose M",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Cristian",
+      "player1Pf": 2,
+      "player2": "Jose",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Jose",
+      "player1Pf": 2,
+      "player2": "Jose M",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Jose M",
+      "player1Pf": 2,
+      "player2": "Santiago",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Cristian",
+      "player1Pf": 2,
+      "player2": "Santiago",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Jesus",
+      "player1Pf": 2,
+      "player2": "Line",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Tomeu",
+      "player1Pf": 2,
+      "player2": "Jesus",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Tomeu",
+      "player1Pf": 2,
+      "player2": "Victor",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Dennis",
+      "player1Pf": "2",
+      "player2": "Eleni",
+      "player2Pf": "1"
+    },
+    {
+      "player1": "Victorius",
+      "player1Pf": 2,
+      "player2": "Eleni",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Victorius",
+      "player1Pf": 2,
+      "player2": "Dennis",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Eleni",
+      "player1Pf": 2,
+      "player2": "Estela",
+      "player2Pf": 1
+    },
+    {
+      "player1": "Dennis",
+      "player1Pf": 2,
+      "player2": "Estela",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Lucio",
+      "player1Pf": 2,
+      "player2": "Nacho",
+      "player2Pf": 0
+    },
+    {
+      "player1": "Jose",
+      "player1Pf": 2,
+      "player2": "Santiago",
+      "player2Pf": 0
+    }
+  ],
+  "players": [
+    {
+      "name": "Nelson",
+      "id": 1,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fnelson.png?alt=media&token=3721e30a-fbbd-42f0-9d95-1a44dfb1a8f7"
+    },
+    {
+      "name": "Pol",
+      "id": 2,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fpol.png?alt=media&token=2958f5c7-8256-4c39-bc23-211bad6920ff"
+    },
+    {
+      "name": "Dany",
+      "id": 3,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdany.png?alt=media&token=f14b825a-d83c-40f1-937e-6715d8c5b0c7"
+    },
+    {
+      "name": "Ines",
+      "id": 4,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fines.png?alt=media&token=020fe3a4-8a1e-4acf-9afd-2d464f658f0a"
+    },
+    {
+      "name": "Boris",
+      "id": 5,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fboris.png?alt=media&token=ccdf4d3a-69d7-4eee-a187-f57e7596ea87"
+    },
+    {
+      "name": "Pascal",
+      "id": 6,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fpascaal.png?alt=media&token=95e4bf9c-c4a1-4084-beca-fa8a3183f862"
+    },
+    {
+      "name": "Ruben",
+      "id": 7,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fruben.png?alt=media&token=49b8a201-b363-4907-89be-1b899d72ea06"
+    },
+    {
+      "name": "Daniel",
+      "id": 8,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdaniel.png?alt=media&token=94bf1bf9-1211-4517-ac06-635002e709ca"
+    },
+    {
+      "name": "Cristian",
+      "id": 9,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fcristian.png?alt=media&token=e4c1d0b1-1316-442f-b0d9-b5c81691f8d1"
+    },
+    {
+      "name": "Jose Argentum",
+      "id": 10,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjose.png?alt=media&token=f6f1de74-2390-4971-8e70-2abd6d47e08e"
+    },
+    {
+      "name": "Jose M",
+      "id": 11,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjose-m.png?alt=media&token=935a8018-50a4-4b82-9237-914d4f9aecb4"
+    },
+    {
+      "name": "Santiago",
+      "id": 12,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fsantiago.png?alt=media&token=b7c4bed8-310c-4512-b951-84ce94087791"
+    },
+    {
+      "name": "Tomeu",
+      "id": 13,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Ftomeu.png?alt=media&token=16eb16cb-55ee-4324-af54-6cd6127b422b"
+    },
+    {
+      "name": "Jesus",
+      "id": 14,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fjesus.png?alt=media&token=33957bdd-4fb6-456e-885b-27a4a2bccc41"
+    },
+    {
+      "name": "Line",
+      "id": 15,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fline.png?alt=media&token=901d4b1b-d8b5-48ef-801a-ac0d6a80b15c"
+    },
+    {
+      "name": "Victor",
+      "id": 16,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fvictor-gil.png?alt=media&token=1c42fad5-89aa-46f0-bfb1-b1c1e10bc5e7"
+    },
+    {
+      "name": "Lucas",
+      "id": 17,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Flucas.png?alt=media&token=5cd75e7e-91ea-4b39-b466-6b3340ae6d75"
+    },
+    {
+      "name": "Lucio",
+      "id": 18,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Flucio.png?alt=media&token=b3b6965a-0f98-4292-b642-0e05f7547a28"
+    },
+    {
+      "name": "Nacho",
+      "id": 19,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fnacho.png?alt=media&token=016c06be-66db-4371-afa8-b1835e8cf17b"
+    },
+    {
+      "name": "Maria",
+      "id": 20,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fmaria.png?alt=media&token=56c2dedd-f993-4c8e-bfe9-16d4ecdf5664"
+    },
+    {
+      "name": "Dennis",
+      "id": 21,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fdennis.png?alt=media&token=55d12e23-747f-46bd-bad6-acf20e4d3511"
+    },
+    {
+      "name": "Eleni",
+      "id": 22,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Feleni.png?alt=media&token=71972c48-cc35-45b9-ac7d-7739a64bf81b"
+    },
+    {
+      "name": "Victorius",
+      "id": 23,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Fvictorius.png?alt=media&token=9e8f476d-92dd-4e2d-b90e-fe0ef9ffe4db"
+    },
+    {
+      "name": "Estela",
+      "id": 24,
+      "image": "https://firebasestorage.googleapis.com/v0/b/pinake-220016.appspot.com/o/ping-pong%2Festela.png?alt=media&token=04b045e7-f399-4ce9-a61f-3200ba5c8cd8"
+    }
+  ]
+}
