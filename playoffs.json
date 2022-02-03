@@ -114,9 +114,9 @@
     },
     {
       "id": 14,
-      "player1": "Pascal",
+      "player1": "Winner game 1",
       "player1Score": "-",
-      "player2": "Winner game 2",
+      "player2": "Pascal",
       "player2Score": "-",
       "phase": "Semi",
       "reverse": true
