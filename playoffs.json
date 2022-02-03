@@ -19,9 +19,9 @@
     {
       "id": 3,
       "player1": "Victor",
-      "player1Score": "-",
+      "player1Score": "0",
       "player2": "Lucas",
-      "player2Score": "-",
+      "player2Score": "2",
       "phase": "Round16"
     },
     {
@@ -35,14 +35,14 @@
     {
       "id": 9,
       "player1": "Boris",
-      "player1Score": "-",
+      "player1Score": "2",
       "player2": "Pol",
-      "player2Score": "-",
+      "player2Score": "0",
       "phase": "Quarter"
     },
     {
       "id": 10,
-      "player1": "Winner game 3",
+      "player1": "Lucas",
       "player1Score": "-",
       "player2": "Winner game 4",
       "player2Score": "-",
@@ -50,7 +50,7 @@
     },
     {
       "id": 13,
-      "player1": "Winner game 1",
+      "player1": "Boris",
       "player1Score": "-",
       "player2": "Winner game 2",
       "player2Score": "-",
@@ -61,9 +61,9 @@
     {
       "id": 5,
       "player1": "Lucio",
-      "player1Score": "-",
+      "player1Score": "2",
       "player2": "Tomeu",
-      "player2Score": "-",
+      "player2Score": "0",
       "phase": "Round16",
       "reverse": true
     },
@@ -79,24 +79,24 @@
     {
       "id": 7,
       "player1": "Victorius",
-      "player1Score": "-",
+      "player1Score": "0",
       "player2": "Ruben",
-      "player2Score": "-",
+      "player2Score": "2",
       "phase": "Round16",
       "reverse": true
     },
     {
       "id": 8,
       "player1": "Eleni",
-      "player1Score": "-",
+      "player1Score": "0",
       "player2": "Pascal",
-      "player2Score": "-",
+      "player2Score": "2",
       "phase": "Round16",
       "reverse": true
     },
     {
       "id": 11,
-      "player1": "Winner game 1",
+      "player1": "Lucio",
       "player1Score": "-",
       "player2": "Winner game 2",
       "player2Score": "-",
@@ -105,16 +105,16 @@
     },
     {
       "id": 12,
-      "player1": "Winner game 2",
-      "player1Score": "-",
-      "player2": "Winner game 3",
-      "player2Score": "-",
+      "player1": "Pascal",
+      "player1Score": "2",
+      "player2": "Ruben",
+      "player2Score": "0",
       "phase": "Quarter",
       "reverse": true
     },
     {
       "id": 14,
-      "player1": "Winner game 1",
+      "player1": "Pascal",
       "player1Score": "-",
       "player2": "Winner game 2",
       "player2Score": "-",
